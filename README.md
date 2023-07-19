@@ -2,7 +2,7 @@
 - 👀 I’m interested in pixel art, coding and web development
 - 🌱 I’m currently learning pixel art
 - 💞️ I’m looking to collaborate on wordpress blogging
-- 📫 Reach me on discord: Ayu#0300
+- 📫 Reach me on discord: ayucrystal
 
 <!---
 Ayupixels/Ayupixels is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
